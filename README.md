@@ -182,42 +182,6 @@ ecommerce-fe/           # Next.js Frontend
 * `GET /api/orders/my-orders/` - User order history
 * `PUT /api/orders/admin/{order_id}/status/` - Update order status (Admin)
 
----
 
 
-## Contact
 
-If you have any questions or need support, please open an issue on GitHub or contact via email.
-
-*Developed with ❤️ using Django and Next.js*
-
-
-## UI Demo
-
-### Customer Interface
-
-| Home Page | Product Details |
-|---|---|
-| ![Home Page](images/home.png) | ![Product Details](images/chitietsanpham.png) |
-
-| Shopping Cart | Checkout |
-|---|---|
-| ![Shopping Cart](images/cart.png) | ![Checkout](images/checkout.png) | 
-
-| VN PAY | Orders |
-|---|---|
-| ![VN PAY](images/vnpay.png) | ![ORDERS](images/orders.png) | 
-
-| Profile | Addresses |
-|---|---|
-| ![Profile](images/profile.png) | ![Addresses](images/addresses.png) | 
-
-Admin
-
-| Users management | Products Management |
-|---|---|
-| ![Admin](images/users_management.png) | ![Admin](images/products_management.png) | 
-
-| Categories management | Orders Management |
-|---|---|
-| ![Admin](images/categories_management.png) | ![Admin](images/orders_management.png) | 
